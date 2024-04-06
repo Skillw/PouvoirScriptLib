@@ -1,3 +1,8 @@
+/*
+* @author clok
+* @date 2024/4/6 12:48
+* */
+
 function file() {
 }
 //为什么要这么设计，是为了实现JavaScript的file类，为了完美的代码提示，而不直接使用object，未来会改为类
